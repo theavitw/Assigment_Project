@@ -7,3 +7,5 @@
 SESSION_SECRET= Your secret key
 
 -- strat application with - npm run dev
+
+--open browser window with localhost:3000
