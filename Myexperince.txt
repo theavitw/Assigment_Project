@@ -1,6 +1,6 @@
-At the beignning I started with Frontend and create responsive pages.
+At the beignning I started with Frontend and created responsive pages.
 After,I went through backend which is little bit time consuming for me.Even though I knew the flow and process,
 I don't know how to implement it.So, I started reffring from web and learned new things like hashing on
 secret key , flash module and sessions.
-Additionally like all project I faced some error while debbuging .But fixing the errors is like 
+Additionally like all projects,I faced some error while debbuging.But fixing the errors is like 
 different kind of happiness for me.
